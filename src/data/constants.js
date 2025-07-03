@@ -1,7 +1,7 @@
 export const Bio = {
     name: "Nishanta Khadka",
     roles: [
-        "Computer Science Enthusiast",
+        "CS Enthusiast",
         "AI/ML Student",
         "Web Developer",
         "Software Builder",
@@ -12,8 +12,7 @@ export const Bio = {
     description:
         "I’m captivated by coding and the vast world of computer science. I love crafting software, exploring algorithms, and tinkering with systems. Tech’s endless potential fuels my enthusiasm.",
     github: "http://github.com/nisxant69",
-    resume:
-        "https://github.com/nisxant69",
+    resume: "https://github.com/nisxant69",
     linkedin: "https://www.linkedin.com/in/nisxant69/",
     twitter: "https://x.com/nisxant69",
     insta: "https://www.instagram.com/nisxant69/",
