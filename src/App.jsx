@@ -1,6 +1,6 @@
 import './App.css';
 import styled, { ThemeProvider } from "styled-components";
-import { darkTheme, lightTheme } from './utils/Themes'; 
+import { darkTheme, lightTheme } from './utils/Themes';
 import Navbar from "./components/Navbar/index";
 import Hero from "./components/HeroSection/index";
 import Skills from "./components/Skills/index";
@@ -12,6 +12,7 @@ import Projects from './components/Projects/index.jsx';
 import Contact from './components/Contact/index.jsx';
 import Footer from './components/Footer/index.jsx';
 import ProjectDetails from './components/ProjectDetails/index.jsx';
+import FluidCursor from './components/FluidCursor/index.jsx';
 import { useState, useEffect } from 'react';
 
 
@@ -37,7 +38,7 @@ function App() {
   useEffect(() => {
 
     const handleContextMenu = (e) => e.preventDefault();
-    
+
     const handleKeyDown = (e) => {
       if (
         (e.ctrlKey && ["c", "x", "v", "u"].includes(e.key.toLowerCase())) ||
@@ -60,6 +61,7 @@ function App() {
   return (
     <ThemeProvider theme={darkMode ? darkTheme : lightTheme}>
       <Router>
+        <FluidCursor />
         <Navbar />
         <Body>
           <Hero />
