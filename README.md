@@ -1,6 +1,6 @@
 # Personal Portfolio Website 🌟
 
-Welcome to my personal portfolio website! This project showcases my skills, experiences, and projects as a developer. The live version is hosted at [nisxant69.tech](https://www.nisxant69.tech) 🚀. This repository contains the source code, developed using modern web technologies to ensure a responsive, visually appealing, and user-friendly experience.
+Welcome to my personal portfolio website! This project showcases my skills, experiences, and projects as a developer. The live version is hosted at [http://nishantakhadka.com.np/](http://nishantakhadka.com.np/) 🚀. This repository contains the source code, developed using modern web technologies to ensure a responsive, visually appealing, and user-friendly experience.
 
 ## Overview 📝
 
