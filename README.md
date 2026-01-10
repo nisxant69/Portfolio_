@@ -25,7 +25,7 @@ This portfolio serves as a professional representation of my development journey
 - **Hosting** ☁️: Deployed via Vercel.
 
 ## Usage 🎮
-- Visit [https://www.nisxant69.tech/](https://www.nisxant69.tech/) to explore the live site 🌍.
+- Visit [http://nishantakhadka.com.np/](http://nishantakhadka.com.np/) to explore the live site 🌍.
 - Navigate through sections such as “About,” “Projects,” and “Contact” to learn more 📜.
 - Utilize the menu for smooth transitions between sections 🏃‍♂️.
 
@@ -33,6 +33,6 @@ This portfolio serves as a professional representation of my development journey
 This project is intended for personal demonstration. You are welcome to draw inspiration from it, but please refrain from replicating it entirely without permission.
 
 ## Contact 📲
-- **Website** 🌐: [https://www.nisxant69.tech/](https://www.nisxant69.tech/)
-- **Insta** 🐙: [nisxant69](https://github.com/nisxant69)
+- **Website** 🌐: [http://nishantakhadka.com.np/](http://nishantakhadka.com.np/)
+- **Insta** 🐙: [nisxant69](https://instagram.com/nisxant69)
 - **Email** ✉️: [nisxant69@gmail.com](mailto:nisxant69@gmail.com)
