@@ -249,23 +249,23 @@ export const projects = [
         description:
             "A responsive portfolio website to showcase my projects, skills, and experience. Built with a clean design and smooth animations to create an engaging user experience.",
         image:
-            "https://res.cloudinary.com/dhjxadhrs/image/upload/v1732801404/active-states_dwoxgb.jpg",
+            "https://res.cloudinary.com/dhuf7bqvp/image/upload/v1768112608/Screenshot_2026-01-11_at_12.08.07_kwtnvy.png",
         tags: ["React", "Styled-Components", "CSS", "JavaScript"],
         category: "web app",
         github: "https://github.com/nisxant69/portfolio-website",
-        link: "https://nisxant69-portfolio.netlify.app/",
+        link: "https://www.nishantakhadka.com.np/",
     },
     {
         id: 1,
-        title: "Weather Dashboard",
+        title: "Mausam - Weather App",
         description:
-            "A web app that fetches and displays current weather data for any city using a public API. Includes a simple search feature and responsive design.",
+            "A beautiful, modern weather application for Nepal featuring real-time weather data, interactive maps, 5-day forecasts, animated SVG icons, 140+ locations with instant search, and offline support.",
         image:
-            "https://res.cloudinary.com/dhjxadhrs/image/upload/v1732801945/active-states_loskiq.jpg",
-        tags: ["HTML", "CSS", "JavaScript", "OpenWeather API"],
+            "https://res.cloudinary.com/dhuf7bqvp/image/upload/v1768112331/Screenshot_2026-01-11_at_11.52.08_alnsru.png",
+        tags: ["Next.js", "TypeScript", "Tailwind CSS", "Leaflet", "API"],
         category: "web app",
-        github: "https://github.com/nisxant69/weather-dashboard",
-        link: "https://nisxant69-weather-dashboard.netlify.app/",
+        github: "https://github.com/nisxant69/Mausam",
+        link: "https://mausam.nishantakhadka.com.np//",
     },
     {
         id: 2,
@@ -308,16 +308,28 @@ export const projects = [
         github: "https://github.com/nisxant69/rock-paper-scissors",
         link: "https://nisxant69-rock-paper-scissors.netlify.app/",
     },
+    // {
+    //     id: 5,
+    //     title: "Quote Generator",
+    //     description:
+    //         "An app that generates random motivational quotes fetched from a public API, with a button to get a new quote and a simple, elegant design.",
+    //     image:
+    //         "https://res.cloudinary.com/dhuf7bqvp/image/upload/v1768112331/Screenshot_2026-01-11_at_11.52.08_alnsru.png",
+    //     tags: ["HTML", "CSS", "JavaScript", "API"],
+    //     category: "web app",
+    //     github: "https://github.com/nisxant69/quote-generator",
+    //     link: "https://nisxant69-quote-generator.netlify.app/",
+    // },
     {
         id: 5,
-        title: "Quote Generator",
+        title: "Weather Dashboard",
         description:
-            "An app that generates random motivational quotes fetched from a public API, with a button to get a new quote and a simple, elegant design.",
+            "A web app that fetches and displays current weather data for any city using a public API. Includes a simple search feature and responsive design.",
         image:
-            "https://res.cloudinary.com/dhjxadhrs/image/upload/v1732810600/active-states_nxrdyv.jpg",
-        tags: ["HTML", "CSS", "JavaScript", "API"],
+            "https://res.cloudinary.com/dhjxadhrs/image/upload/v1732801945/active-states_loskiq.jpg",
+        tags: ["HTML", "CSS", "JavaScript", "OpenWeather API"],
         category: "web app",
-        github: "https://github.com/nisxant69/quote-generator",
-        link: "https://nisxant69-quote-generator.netlify.app/",
+        github: "https://github.com/nisxant69/weather-dashboard",
+        link: "https://nisxant69-weather-dashboard.netlify.app/",
     },
 ];
